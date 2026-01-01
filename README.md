@@ -29,5 +29,5 @@ Soy un apasionado de la tecnología en plena transición de carrera. Con más de
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioara&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonioara&layout=compact&theme=aurora&show_icons=true" alt="Mis Lenguajes más usados" />
 </p>
